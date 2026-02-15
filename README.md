@@ -16,7 +16,7 @@ I’m a builder at heart, currently transitioning from frontend mastery to full-
 - **[Portfolio Site]** - My personal corner of the web.
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithKhofi&show_icons=true&theme=radical)
+![CodeWithKhofi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithKhofi&show_icons=true&theme=radical)
 
 ---
-📬 **Let's Connect:** [CodeWithKhofi](https://www.linkedin.com/in/code-with-khofi-661628384/)]
+📬 **Let's Connect:** [CodeWithKhofi](https://www.linkedin.com/in/joseph-nyame-661628384/)
