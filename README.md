@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm CodeWithKhofi 
 
-<!--
-**CodeWithKhofi/CodeWithKhofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer & CS Student
+I’m a builder at heart, currently transitioning from frontend mastery to full-stack development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Backend:** Python, Django (Current Focus)
+- **Tools:** Git, GitHub, VS Code,Pycharm, Netlify
+
+## 🔭 Current Projects
+- **[Lead Sniper]** - *In Planning* (A high-efficiency lead generation tool built with Python/Django).
+- **[Music Player V2]** - Mobile-optimized audio experience with Vanilla JS.
+- **[Portfolio Site]** - My personal corner of the web.
+
+## 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithKhofi&show_icons=true&theme=radical)
+
+---
+📬 **Let's Connect:** [CodeWithKhofi](https://www.linkedin.com/in/code-with-khofi-661628384/)]
