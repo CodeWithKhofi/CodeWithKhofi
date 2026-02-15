@@ -11,7 +11,6 @@ I’m a builder at heart, currently transitioning from frontend mastery to full-
 - **Tools:** Git, GitHub, VS Code,Pycharm, Netlify
 
 ## 🔭 Current Projects
-- **[Lead Sniper]** - *In Planning* (A high-efficiency lead generation tool built with Python/Django).
 - **[Music Player V2]** - Mobile-optimized audio experience with Vanilla JS.
 - **[Portfolio Site]** - My personal corner of the web.
 
